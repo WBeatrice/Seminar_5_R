@@ -1,0 +1,15 @@
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\bin\Debug\net6.0\task_1.exe
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\bin\Debug\net6.0\task_1.deps.json
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\bin\Debug\net6.0\task_1.dll
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\bin\Debug\net6.0\task_1.pdb
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.dll
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\refint\task_1.dll
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.pdb
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+C:\Users\bwene\OneDrive\Pulpit\seminar_5_sh_d_r\task_1\obj\Debug\net6.0\ref\task_1.dll
